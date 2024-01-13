@@ -1,0 +1,115 @@
+<resources>
+    <string name="tab_text_1">Info</string>
+    <string name="tab_text_2">Calender</string>
+    <string name="app_name">Krushak</string>
+    <string name="email">Email</string>
+    <string name="info">Information and Schemes</string>
+    <string name="cal">Calender</string>
+    <string name="password">Password</string>
+    <string name="alreadyacc">Already have an account? Sign in here!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="noacc">Not Registered? Sign Up Here!</string>
+    <string name="welcome">Welcome to Krushak! YOU MADE IT HERE!</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log In Page</string>
+    <string name="sign_up_page">Sign Up Page</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="WelText">We at Krushak have specifically made this app for you to help you in whichever way possible, \nbe it information about Schemes and Loans for Farmers or a Profit Calculator and even an Event Manager. So come on, and let us help you out!
+        \nThis app is currently available for farmers in Nashik district only</string>
+    <string name="Map">Map of Nashik</string>
+    <string name="basicInfo">Some basic information about Nashik is as follows
+\n1. Geographical area - 15548 square kilometers
+\n2. Total Talukas - 15
+\n3. Kharip Village - 1577
+\n4. Rabi Village	 - 383
+\n5. Total livestock - 25,95,000
+\n6. Cows+Buffaloes - 1,44,000</string>
+    <string name="Scheme">SCHEMES</string>
+    <string name="KS">PM-Kisan Scheme</string>
+    <string name="KSContent">Pradhan Mantri Kisan Samman Nidhi Yojana is an initiative of the Government wherein 120 million small and marginal farmers of India with less than two hectares of landholding will get up to Rs. 6,000 per year as a minimum income support. PM-Kisan scheme has become operational since 1st December 2018. Under this scheme, cultivators will get Rs. 6000 in three installments. For more details check www.pmkisan.gov.in/
+</string>
+    <string name="MKM">Pradhan Mantri Kisan Maandhan yojana</string>
+    <string name="MKMContent">Prime Minister Narendra Modi launched a pension scheme for the small and marginal farmers of India last September. Under this pension scheme about 5 crore marginalised farmers will get a minimum pension of Rs 3000 / month on attaining the age of 60. Those who fall in the age group of 18 - 40 years will be eligible to apply for the scheme. Under this scheme, the farmers will be required to make a monthly contribution of Rs 55 to 200, depending on their age of entry, in the Pension Fund till they reach the retirement date, 60 years. The Government will make an equal contribution of the same amount in the pension fund for the cultivators. For more details click pmkmy.gov.in/
+</string>
+    <string name="FBY">Pradhan Mantri Fasal Bima Yojana (PMFBY)</string>
+    <string name="FBYContent">Pradhan Mantri Fasal Bima Yojana is an actuarial premium based scheme where farmer has to pay maximum premium of 2 percent for Kharif, 1.5 percent for Rabi food and oilseed crops and 5 percent for annual commercial or horticultural crops and the remaining part of the actuarial or bidded premium is equally shared by the Central and State Government.  An important purpose of the scheme is to facilitate quick claims settlement. The claims should be settled within 2 months of harvest subject to timely provision of both yield data and share of premium subsidy by State Government. Check this link for more details pmfby.gov.in/
+</string>
+    <string name="KSY">Pradhan Mantri Krishi Sinchai Yojana (PMKSY)</string>
+    <string name="KSYContent">Pradhan Mantri Krishi Sinchai Yojana was launched on 1 July 2015 with the motto ‘Har Khet Ko Paani’ to provide end-to end solutions in irrigation supply chain, viz. water sources, distribution network and farm level applications. PMKSY focuses on creating sources for assured irrigation, also creating protective irrigation by harnessing rain water at micro level through ‘Jal Sanchay’ and ‘Jal Sinchan’.\n
+    Components:
+    \n ->Accelerated Irrigation Benefit Programme - implemented by Ministry of Water Resources, RD and GR.
+   \n -> PMKSY (Har Khet ko Pani) - implemented by Ministry of Water Resources, RD and GR
+    \n ->PMKSY (Watershed) - implemented by Department of Land Resources.
+    \n ->PMKSY(Per Drop More Crop - PDMC)
+    </string>
+    <string name="LOAN">Types of Agriculture Loans in India</string>
+    <string name="KCC">1.Kisan Credit Card (KCC) /Crop Loans </string>
+    <string name="KCCContent">When it comes to agricultural activities, there are multiple short-term processes like the purchase of seeds, sowing, raising crops, weeding, etc. Generally, farmers do not have enough cash to meet these overheads. Hence, they approach banks frequently for short-term loans.
+To simplify the process, banks came up with an innovative lending scheme known as Kisan Credit Card or a crop loan. This scheme is used to finance seasonal and recurring short-term requirements.
+Instead of applying for several short term loans, farmers can use their Kisan Credit Cards to borrow small amounts regularly.
+These types of loans are also known as Retail Agri Loans</string>
+    <string name="ATL">2.Agriculture Term Loan</string>
+    <string name="ATLContent">This loan has a longer tenure than the crop loan. Its provided for larger agriculture-related expenditures like the purchase of machinery, pump-sets, upgrading the farm facilities, installation of solar power motors, etc. These are long term loan schemes which a farmer can avail to meet their non-seasonal expenses.
+The repayment tenure for such kind of loan schemes can go up to 4 years allowing the farmer to repay the amount in a convenient manner.
+</string>
+    <string name="AWCL">3.Agriculture Working Capital Loans
+</string>
+    <string name="AWCLContent">As the name implies, these loans are offered to farmers and other individuals engaged in agri-related activities to meet their various working capital requirements. These loans are used to meet expenses that are not covered by the Kisan Credit Card scheme.
+Farmers involved in allied agricultural activities can apply for such type of loans if they need to raise working capitals to meet their farming expenses.
+</string>
+    <string name="FML">4.Farm Mechanisation Loan</string>
+    <string name="FMLContent">Farm mechanisation loans are offered to farmers to purchase/repair/upgrade farm machinery. Some banks provide general farm mechanisation loans, while others offer sub-category loans like drip irrigation loans, tractor loans, combine harvester loans, etc.
+    If a farmer requires working capital so that they can either purchase new farming machineries or upgrade their existing ones such as purchasing a new tractor or getting an old one repaired, then they can apply for these types of loan schemes.
+    </string>
+    <string name="SPS">5.Solar Pump Set Loan</string>
+    <string name="SPSContent">If a farmer is involved in small irrigation projects and require capital to buy photo voltaic pumping system, then availing a solar pump set loan is the appropriate option. The repayment tenure for such loan schemes go up to 10 years.
+</string>
+    <string name="help">Help</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="event_title">Event Title</string>
+    <string name="event_description">Event Description</string>
+    <string name="add_event">Add Event</string>
+    <string name="enter_event_details">Enter Event Details!</string>
+    <string name="event_manager">Event Manager</string>
+    <string name="title_activity_navi">Navi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="calculator">Calculator</string>
+    <string name="weather">Weather</string>
+    <string name="profit_calculator">Profit Calculator</string>
+    <string name="enter_cp">Enter cost price of 1 kg</string>
+    <string name="enter_sp">Enter Selling Price of 1kg</string>
+    <string name="enter_kg">Enter Number of Kgs</string>
+    <string name="profit_will_be">Profit in Rs will be</string>
+    <string name="buttn_txt">Calculate!</string>
+    <string name="_30">30</string>
+    <string name="date">Date</string>
+    <string name="my_city">My City</string>
+    <string name="sunny">Sunny</string>
+    <string name="c">c</string>
+    <string name="check_weather">Check Weather</string>
+    <string name="feedback">For any queries or feedback email us at</string>
+    <string name="helpemail">krushak.manage@gmail.com</string>
+    <string name="made_by">Made by: \nAngelica Sebastian,
+\nMelita Lewis,
+\nSushree Nadiminty \nand
+Shaun Noronha</string>
+
+</resources>
